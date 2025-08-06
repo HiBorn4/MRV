@@ -1,16 +1,7 @@
-Here's a professional `README.md` for your **MRV** project (Machine Runtime Visualizer), tailored for showcasing on platforms like **Upwork**, **Fiverr**, and your **portfolio**. It includes descriptions, setup instructions, and placeholders for media content:
-
----
-
-````markdown
 # 🛠️ MRV - Machine Runtime Visualizer
 
 ![MRV Interface](/public/ui.png)
-![Technical Architecture]
-
-https://github.com/user-attachments/assets/48543ee9-8a0b-4548-8e0e-d5ff693d6e1c
-
-(/public/mrv.drawio.png)
+![Technical Architecture](/public/mrv.drawio.png)
 
 ---
 
@@ -102,7 +93,7 @@ python live_main.py
 
 ## 🎥 Demo (Video walkthrough)
 
-*🚧 Placeholder for video content - Add screen-recorded video or camera demo here*
+https://github.com/user-attachments/assets/48543ee9-8a0b-4548-8e0e-d5ff693d6e1c
 
 ---
 
