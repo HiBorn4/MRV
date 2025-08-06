@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "GEORAMA";
+  src: url("./Fonts/Georama_SemiExpanded-SemiBold.ttf");
+}
+@font-face {
+  font-family: "GEORAMALight";
+  src: url("./Fonts/Georama_SemiExpanded-Regular.ttf");
+}
+@font-face {
+  font-family: "RALEWAY";
+  src: url("./Fonts/Raleway-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: "RALEWAYBold";
+  src: url("./Fonts/Raleway-Bold.ttf");
+}
+/* font face for Kanit */
+@font-face {
+  font-family: "KANITRegular";
+  src: url("./Fonts/Kanit-Regular.ttf");
+}
+@font-face {
+  font-family: "KANITBold";
+  src: url("./Fonts/Kanit-Bold.ttf");
+}
+@font-face {
+  font-family: "KANITMedium";
+  src: url("./Fonts/Kanit-Medium.ttf");
+}
+@font-face {
+  font-family: "KANITBlack";
+  src: url("./Fonts/Kanit-Black.ttf");
+}
+@font-face {
+  font-family: "KANITLight";
+  src: url("./Fonts/Kanit-Light.ttf");
+}
