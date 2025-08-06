@@ -6,7 +6,11 @@ Here's a professional `README.md` for your **MRV** project (Machine Runtime Visu
 # 🛠️ MRV - Machine Runtime Visualizer
 
 ![MRV Interface](/public/ui.png)
-![Technical Architecture](/public/mrv.drawio.png)
+![Technical Architecture]
+
+https://github.com/user-attachments/assets/48543ee9-8a0b-4548-8e0e-d5ff693d6e1c
+
+(/public/mrv.drawio.png)
 
 ---
 
